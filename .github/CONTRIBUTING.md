@@ -8,8 +8,6 @@ document describes the contribution guidelines for the project.
 
 ## Contributing to Tekton code
 
-To set up your environment and begin working on our code, see [Developing for Tekton](./DEVELOPMENT.md).
-
 [The `community` repo](https://github.com/tektoncd/community) contains information on the following:
 
 - [Development standards](https://github.com/tektoncd/community/blob/master/standards.md), including:
@@ -24,12 +22,6 @@ To set up your environment and begin working on our code, see [Developing for Te
   - [Becoming a code owner](https://github.com/tektoncd/community/blob/master/process.md#owners)
 - [Making changes to the Tekton API](api_compatibility_policy.md#approving-api-changes)
 - [Understanding the Tekton automation infrastructure](https://github.com/tektoncd/plumbing)
-
-Additionally, please read the following resources specific to Tekton Pipelines:
-
-- [Tekton Pipelines GitHub project](https://github.com/orgs/tektoncd/projects/3)
-- [Tekton Pipelines roadmap](roadmap-2019.md)
-- [Tekton Pipelines API compatibility policy](api_compatibility_policy.md)
 
 ## Contributing to Tekton documentation
 
