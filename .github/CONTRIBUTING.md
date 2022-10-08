@@ -3,7 +3,7 @@
 Thank you for contributing your time and expertise to Tekton. This
 document describes the contribution guidelines for the project.
 
-**Note:** Before you start contributing, you must read and abide by our **[Code of Conduct](./code-of-conduct.md)**.
+**Note:** Before you start contributing, you must read and abide by our **[Code of Conduct](./CODE_OF_CONDUCT.md)**.
 
 
 ## Contributing to Tekton code
