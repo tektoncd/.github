@@ -23,7 +23,7 @@ repository.
 
 Alternatively, you can email the
 [Tekton Vulnerability Management Team (VMT)](https://github.com/orgs/tektoncd/teams/tekton-vmt)
-at **tekton-vmt@tekton.dev** with a description of the issue, the steps you
+at **tekton-vmt\[at\]googlegroups.com** with a description of the issue, the steps you
 took to create the issue, affected versions, and, if known, mitigations for
 the issue.
 
@@ -60,3 +60,4 @@ GitHub repositories:
 - [Tekton Chains](https://github.com/tektoncd/chains/security/advisories)
 - [Tekton Triggers](https://github.com/tektoncd/triggers/security/advisories)
 - [Tekton Operator](https://github.com/tektoncd/operator/security/advisories)
+- [Tekton Dashboard](https://github.com/tektoncd/dashboard/security/advisories)
