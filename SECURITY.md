@@ -11,6 +11,10 @@ fixes are backported to all supported LTS releases. See the
 [Tekton support policy](https://github.com/tektoncd/community/blob/main/releases.md#support-policy)
 for details.
 
+## Threat Model
+
+For a detailed overview of our security architecture, trust boundaries, and potential threats, please refer to the [Tekton Security Threat Model](https://github.com/tektoncd/pipeline/blob/main/docs/security-threat-model.md).
+
 ## Reporting a Vulnerability
 
 **Please do not report security vulnerabilities through public GitHub issues.**
