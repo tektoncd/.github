@@ -13,7 +13,9 @@ for details.
 
 ## Threat Model
 
-For a detailed overview of our security architecture, trust boundaries, and potential threats, please refer to the [Tekton Security Threat Model](https://github.com/tektoncd/pipeline/blob/main/docs/security-threat-model.md).
+For a detailed overview of our security architecture, trust boundaries, and potential threats, please refer to the specific Threat Model for each project:
+
+* **Tekton Pipeline:** [Pipeline Security Threat Model](https://github.com/tektoncd/pipeline/blob/main/docs/security-threat-model.md)
 
 ## Reporting a Vulnerability
 
