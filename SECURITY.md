@@ -21,13 +21,20 @@ For a detailed overview of our security architecture, trust boundaries, and pote
 
 **Please do not report security vulnerabilities through public GitHub issues.**
 
-To report a vulnerability, please use
-[GitHub Security Advisories](https://github.com/tektoncd/pipeline/security/advisories/new)
-on the affected repository. If you are unsure which repository is affected,
-use the [pipeline](https://github.com/tektoncd/pipeline/security/advisories/new)
-repository.
+To report a vulnerability, use the **GitHub Security Advisory** form of the
+affected repository: open the repository's **Security** tab and click
+**Report a vulnerability**.
 
-Alternatively, you can email the
+If that button is not available on the affected repository, please email the
+[Tekton Vulnerability Management Team (VMT)](https://github.com/orgs/tektoncd/teams/tekton-vmt)
+at **tekton-vmt\[at\]googlegroups.com** instead. GitHub cannot move advisories
+between repositories, so please do not file it on an unrelated repository as a
+catch-all. If the issue is genuinely cross-cutting, or you cannot tell which
+repository is affected, you may use the
+[pipeline](https://github.com/tektoncd/pipeline/security/advisories/new)
+repository; the VMT may recreate the report in the correct repository.
+
+You can always email the
 [Tekton Vulnerability Management Team (VMT)](https://github.com/orgs/tektoncd/teams/tekton-vmt)
 at **tekton-vmt\[at\]googlegroups.com** with a description of the issue, the steps you
 took to create the issue, affected versions, and, if known, mitigations for
@@ -64,6 +71,7 @@ GitHub repositories:
 
 - [Tekton Pipeline](https://github.com/tektoncd/pipeline/security/advisories)
 - [Tekton Chains](https://github.com/tektoncd/chains/security/advisories)
+- [Tekton Results](https://github.com/tektoncd/results/security/advisories)
 - [Tekton Triggers](https://github.com/tektoncd/triggers/security/advisories)
 - [Tekton Operator](https://github.com/tektoncd/operator/security/advisories)
 - [Tekton Dashboard](https://github.com/tektoncd/dashboard/security/advisories)
